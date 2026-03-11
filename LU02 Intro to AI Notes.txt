@@ -1,0 +1,63 @@
+UNIT 2
+Day 6:
+Prompt Engineering
+Prompt Engineering: The art of refining prompts to get better responses from AI.
+
+Prompt engineering is a powerful tool, but it shouldn't be an excuse for AI flaws.
+
+
+The prompt framework (T-C-R-E-I)
+
+Task: 
+Who is the AI (E.g, Marketer, Teacher, researcher)
+Format:(Output type (e.g, Table, CSV, List)
+
+Context:
+Good: “Ideas for a gift under $30.”
+Great: “5 ideas for a 29-year-old who loves winter sports and just switched from snowboarding to skiing. Budget $30.”
+
+Reference:
+Provide additional data, examples, or specific ideas to guide the AI.
+
+Attached is documentation about the coding framework we are using.
+
+Here are some examples of similar outputs we liked in the past.
+
+NOTE: If you make a reference, the AI might produce something extremely similar and that would limit it in terms of its capabilities to be unique.
+
+Evaluate:
+Review the output. Does it meet the requirements?
+
+Iterate:
+Feed errors back in.
+
+Add more detail or refine the constraints.
+
+NOTES:
+AI right now can’t give you a satisfactory answer if your prompt is too long.
+If you have a 3 paragraph long prompt, it probably won't give you the answer you want because it can't output enough information at once.
+
+If you are getting answers you don't want, try different phrasing. EX:
+
+“Write a marketing plan”
+
+“Write a story about how this product fits into a customer's file.”
+
+Day 7:
+PROMPTS WE USED TODAY: 
+
+I'm a marketer for a well-known video game producer known for creating immersive story-based online video game. I'm planning the launch of a new medieval fantasy role playing game that follows the path of a young protagonist searching for their missing partner. the game is reaching the end stages of development, and I need help creating a timeline before it goes live. provide a rough timeline for the year leading up to its launch. Also, provide some pre-launch ideas to help generate buzz around the game.
+
+
+Now write a concise, consumer-facing email with this same information.
+Explain that this new schedule will help us better serve them.
+Make the tone, fun, friendly.
+Include a pun about lifting weights.
+I have 10 employees.
+Their employee numbers are 1-10.
+create a table that tracks weekly staffing.
+Create columns for day, name, and shift ( Morning or afternoon)
+- there should always be 2 employees scheduled morning and afternoon.
+- Employees should not be scheduled for a morning shift on the following day after they were scheduled for an afternoon shift.
+- shifts should be roughly equal across employees.
+
