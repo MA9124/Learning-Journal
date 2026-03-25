@@ -1,0 +1,6 @@
+LU04
+Vibe Coding: People using AI to make a piece of software without knowing how to do it themselves. Then if an error occurs, they paste it back into the AI to fix it.
+
+Context window: A term that refers to the limit of how much info AI can have in a conversation at one time.
+
+Hallucinations: AI will literally make stuff up if it doesn’t have an answer. It will also come up with methods ON THE SPOT, that don’t even work sometimes, ‘to figure out’ what you asked and it doesn’t even matter to it if the answer it gives you is true or not.
