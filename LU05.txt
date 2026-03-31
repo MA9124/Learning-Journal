@@ -1,0 +1,2 @@
+LU05
+In this unit, all we did was learn some more general knowledge about AI and set up a VM with Debian and then a VM with something else(I did fedora). Pretty short unit but it was helpful.
