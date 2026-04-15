@@ -1,0 +1,1 @@
+In this learning unit, we used docker and Ollama to run an AI of our choosing locally on our computer, and we also created our own AI that fits our own computer sizes and matches what our hardware can handle.
