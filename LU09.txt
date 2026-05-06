@@ -1,0 +1,1 @@
+In learning unit 9, we focused on getting familiar with n8n and learning how to use it, what it does, it's history, etc. Mr. Luke had us make a custom workflow with classmates for one assignment and then for the other had us make a workflow that pulled info from a DB using an SQL Query, which is all being ran in n8n.
